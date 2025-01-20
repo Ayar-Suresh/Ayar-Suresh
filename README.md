@@ -39,16 +39,13 @@ me.say_hi()
 
 <div align="center">
 
-## 💫 Experience Level  
+## 💫 Experience Level
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-bar
-    title Experience Level
-    "Flutter/Dart" : 80
-    "Python" : 85
-    "Web Dev" : 70
-    "App Dev" : 60
+text
+Flutter/Dart   █████████░░░░  80%
+Python         ██████████░░░   85%
+Web Dev        ████████░░░░░   70%
+App Dev        ███████░░░░░░   60%
 
 
 </div>

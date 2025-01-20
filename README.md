@@ -39,14 +39,99 @@ me.say_hi()
 
 <div align="center">
 
+[Previous sections remain the same until Experience Level]
+
 ## 💫 Experience Level
 
-```text
-Flutter/Dart    ███████████░░  90%
-Python         ████████████░   85%
-Web Dev        ████████░░░░░   70%
-DevOps         ███████░░░░░░   60%
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie showData title Flutter & Mobile
+    "Flutter/Dart" : 90
+    "In Progress" : 10
 ```
+
+</td>
+<td>
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie showData title Python & Backend
+    "Python" : 85
+    "In Progress" : 15
+```
+
+</td>
+</tr>
+</table>
+
+### 🎯 Skills Progress
+
+<img src="https://progress-bar.dev/90/?title=Flutter&width=500&color=02569B" alt="Flutter Progress">
+
+<img src="https://progress-bar.dev/85/?title=Python&width=500&color=3776AB" alt="Python Progress">
+
+<img src="https://progress-bar.dev/70/?title=Web%20Dev&width=500&color=F7DF1E" alt="Web Progress">
+
+<img src="https://progress-bar.dev/60/?title=DevOps&width=500&color=2496ED" alt="DevOps Progress">
+
+### 💻 Technical Proficiency
+
+<table>
+<tr>
+<td align="center">
+<img width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt=""><br>
+<strong>Flutter/Dart</strong><br>
+Advanced
+</td>
+<td align="center">
+<img width="100" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt=""><br>
+<strong>Python</strong><br>
+Proficient
+</td>
+<td align="center">
+<img width="100" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt=""><br>
+<strong>Web Dev</strong><br>
+Intermediate
+</td>
+<td align="center">
+<img width="100" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt=""><br>
+<strong>DevOps</strong><br>
+Learning
+</td>
+</tr>
+</table>
+
+### 🎨 Skills Visualization
+
+```javascript
+{
+  "Mobile Development": {
+    "Flutter": ["UI/UX", "State Management", "API Integration"],
+    "Dart": ["OOP", "Async Programming", "Package Development"],
+    "Experience": "3+ years"
+  },
+  "Backend Development": {
+    "Python": ["Automation", "Scripting", "API Development"],
+    "Firebase": ["Real-time Database", "Authentication", "Cloud Functions"],
+    "Experience": "2+ years"
+  },
+  "Web Development": {
+    "Frontend": ["HTML5", "CSS3", "JavaScript"],
+    "Tools": ["Git", "Docker", "VS Code"],
+    "Experience": "1+ year"
+  }
+}
+```
+
+</div>
+
+[Rest of the sections remain the same]
 
 </div>
 

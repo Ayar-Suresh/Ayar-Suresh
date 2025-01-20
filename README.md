@@ -1,75 +1,91 @@
-# 🚀 Ayar Suresh
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Hi+there!+I'm+Ayar+Suresh+👋;Experienced+App+%26+Web+Developer+🚀;Flutter+%7C+Python+%7C+Automation+🔥;Open+to+Freelance+%26+Collaboration!+🤝)
+# 👋 Hello World, I'm Ayar Suresh!
 
-🌍 **Ahmedabad, India** | 👨‍💻 **Freelancer & Developer** | 🔥 **Passionate Tech Innovator**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C7F2&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+Python+%7C+Web+Development+Expert+%F0%9F%8E%AF;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80)](https://github.com/Ayar-Suresh)
 
----
-## 👨‍💻 **About Me**
-🔹 App & Web Developer with expertise in **Flutter & Dart**  
-🔹 Experienced in **web development (Flutter Web, HTML, CSS, JS)**  
-🔹 **Python enthusiast** for automation & tool development  
-🔹 Worked with **startups & freelance clients** on multiple projects  
-🔹 Built projects like **WhatsApp Status Saver**, **Construction Websites**, and more  
+### 🎯 Crafting Digital Excellence from Ahmedabad, India
 
-💼 Open for **freelance opportunities & collaborations**!  
+</div>
 
----
+## 💫 About Me
 
-## ⚡ **Tech Stack & Tools**
-🚀 **Languages & Frameworks**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+```javascript
+const ayar = {
+    code: ["Flutter", "Dart", "Python", "JavaScript", "HTML", "CSS"],
+    currentFocus: "Building scalable mobile & web applications",
+    funFact: "I can turn ☕ into </code>",
+    lifestyle: ["Developer", "Innovator", "Problem Solver"]
+};
+```
 
-⚙️ **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+> *"The only way to do great work is to love what you do"* - Steve Jobs
 
----
+## 🛠️ Tech Artillery
 
-## 📈 **GitHub Stats & Contributions**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayar-Suresh&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayar-Suresh&theme=radical)  
+<div align="center">
 
-### 🔥 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayar-Suresh&theme=react-dark)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
----
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌟 **My Notable Projects**
-📱 **WhatsApp Status Saver App** - A popular tool for saving statuses instantly.  
-🏗️ **Construction Company Website** - Developed a complete website for a client's business.  
-🚀 **Multiple Startup Projects** - Built web & mobile applications for different startups.  
-🔧 **Automation Tools** - Created **custom Python scripts** for efficiency & automation.
+### 🐍 Programming & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-🔗 **Check my repositories for more!**  
+</div>
 
----
+## 🎯 Featured Projects
 
-## 🤝 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayar-suresh-itpro/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/918320097437)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center">
+      <h3>📱 WhatsApp Status Saver</h3>
+      <p>A sleek app for saving WhatsApp statuses instantly</p>
+      <a href="#">View Project →</a>
+    </td>
+    <td align="center">
+      <h3>🏗️ Construction Portal</h3>
+      <p>Full-stack web solution for construction management</p>
+      <a href="#">View Project →</a>
+    </td>
+  </tr>
+</table>
 
-## 🏆 **GitHub Achievements**
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=radical&no-frame=true&column=7)
+</div>
 
----
+## 📊 GitHub Analytics
 
-🚀 **Always open for exciting projects, freelancing, and collaborations!**  
-💡 **Hire me for your next tech project. Let's innovate together!**  
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayar-Suresh&layout=compact&langs_count=8&theme=tokyonight"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayar-Suresh&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayar-suresh-itpro/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918320097437)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+### 💼 Open for exciting opportunities!
+*Let's build something amazing together* 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ayar-Suresh&color=brightgreen&style=flat-square)
+
+</div>

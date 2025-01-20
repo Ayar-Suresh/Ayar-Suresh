@@ -113,7 +113,7 @@ me.say_hi()
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayar-Suresh&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5DD" width="400" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 

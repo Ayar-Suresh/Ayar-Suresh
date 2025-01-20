@@ -6,7 +6,13 @@
 
 </div>
 
----
+<div align="center">
+
+```text
+🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House 🌟
+```
+
+</div>
 
 ## 🎭 Who Am I?
 
@@ -31,46 +37,18 @@ me = AyarSuresh()
 me.say_hi()
 ```
 
----
+<div align="center">
 
 ## 💫 Experience Level
 
-<table>
-<tr>
-<td>
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie showData title Flutter & Mobile
-    "Flutter/Dart" : 90
-    "In Progress" : 10
+```text
+Flutter/Dart    ███████████░░  90%
+Python         ████████████░   85%
+Web Dev        ████████░░░░░   70%
+DevOps         ███████░░░░░░   60%
 ```
 
-</td>
-<td>
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie showData title Python & Backend
-    "Python" : 85
-    "In Progress" : 15
-```
-
-</td>
-</tr>
-</table>
-
-### 🎯 Skills Progress
-
-![Flutter Progress](https://progress-bar.dev/90/?title=Flutter&width=500&color=02569B)
-
-![Python Progress](https://progress-bar.dev/85/?title=Python&width=500&color=3776AB)
-
-![Web Progress](https://progress-bar.dev/70/?title=Web%20Dev&width=500&color=F7DF1E)
-
-![DevOps Progress](https://progress-bar.dev/60/?title=DevOps&width=500&color=2496ED)
-
----
+</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -95,7 +73,42 @@ pie showData title Python & Backend
 
 </div>
 
----
+## 🎯 Signature Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+      <h3>📱 WhatsApp Status Saver</h3>
+      <p>A revolutionary app for managing WhatsApp statuses with style</p>
+      <details>
+        <summary>Key Features</summary>
+        <ul>
+          <li>Instant Status Saving</li>
+          <li>Custom Categories</li>
+          <li>Cloud Backup</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+      <h3>🏗️ Construction Portal</h3>
+      <p>Comprehensive web platform for construction management</p>
+      <details>
+        <summary>Key Features</summary>
+        <ul>
+          <li>Project Tracking</li>
+          <li>Resource Management</li>
+          <li>Real-time Updates</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Statistics
 
@@ -106,9 +119,9 @@ pie showData title Python & Backend
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayar-Suresh&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 
-</div>
+[![Ayar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayar-Suresh&custom_title=Ayar's%20Contribution%20Graph&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+</div>
 
 ## 🤝 Connect & Collaborate
 
@@ -116,20 +129,30 @@ pie showData title Python & Backend
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayar-suresh-itpro/)
 [![WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918320097437)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-</div>
+### 📫 How to Reach Me
+
+<details>
+<summary>Click for Contact Info</summary>
+<br>
+📧 Email: your.email@example.com<br>
+📱 Phone: +91 8320097437<br>
+🌍 Website: yourportfolio.com
+</details>
 
 ---
 
-## 🎵 Currently Vibing To
-
 <div align="center">
-
+  
+### 🎵 Currently Vibing To
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
 ### 👀 Visitor Count
 ![Profile Views](https://profile-counter.glitch.me/Ayar-Suresh/count.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
 
 </div>

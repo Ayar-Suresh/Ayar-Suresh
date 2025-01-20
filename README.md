@@ -113,7 +113,7 @@ me.say_hi()
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ayar-Suresh&theme=dark&hide_border=true&mode=weekly&card_width=300" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ayar-Suresh&theme=dark&hide_border=true&mode=weekly&card_width=&card_height=&type=png)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 

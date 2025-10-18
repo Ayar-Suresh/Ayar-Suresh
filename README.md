@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -662,4 +661,4 @@
         <p>© 2025 Ayar Suresh. Crafted with passion and powered by code. 🚀</p>
     </footer>
 </body>
-</html>
+

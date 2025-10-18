@@ -1,261 +1,263 @@
 <div align="center">
 
-<!-- Dynamic Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Ayar%20Suresh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Excellence%20✨&descSize=18&descAlignY=55"/>
+# 👋 Welcome to My Digital Space!
 
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Flutter+%7C+Python+%7C+Web+Development;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AYAR%20SURESH&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Expert%20%7C%20Tech%20Innovator&descAlignY=51&descAlign=62" width="100%"/>
 
-<br/>
-
-<!-- Social Badges with Hover Effect -->
-<p>
-  <a href="https://www.linkedin.com/in/ayar-suresh-itpro/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-  <a href="https://wa.me/918320097437"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/></a>
-  <a href="mailto:ahir385350@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
-</p>
-
-<!-- Profile Views Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=Ayar-Suresh&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=🚀+Building+Digital+Experiences;📱+Flutter+%26+Mobile+Development;🐍+Python+Automation+Wizard;🌐+Web+Development+Enthusiast;✨+Open+Source+Contributor)](https://github.com/Ayar-Suresh)
 
 </div>
 
-<br/>
+---
 
-<!-- About Section with Gradient Border -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+## 🎭 About Me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+```python
+class AyarSuresh:
+    def __init__(self):
+        self.name = "Ayar Suresh"
+        self.location = "Ahmedabad, India 🇮🇳"
+        self.work = "Freelance Developer & Tech Innovator"
+        self.passion = "Creating elegant solutions to complex problems"
+        
+        self.skills = {
+            "mobile": ["Flutter", "Dart", "Android", "Cross-platform"],
+            "web": ["HTML5", "CSS3", "JavaScript", "UI/UX"],
+            "backend": ["Python", "Firebase", "Databases", "APIs"],
+            "devops": ["Docker", "Git", "Linux", "CI/CD"],
+            "design": ["Figma", "UI Design", "UX Research"]
+        }
+        
+        self.interests = ["🚀 Innovation", "🎮 Gaming", "📚 Learning", "🤝 Collaboration"]
+        
+    def say_hi(self):
+        return "Thanks for stopping by! Let's build something amazing together! 🤝"
 
-```typescript
-const ayar: Developer = {
-  name: "Ayar Suresh",
-  location: "Ahmedabad, India 🇮🇳",
-  role: "Full Stack Developer & Tech Innovator",
-  
-  skills: {
-    mobile: ["Flutter", "Dart", "Android"],
-    web: ["JavaScript", "HTML5", "CSS3", "React"],
-    backend: ["Python", "Firebase", "REST APIs"],
-    tools: ["Docker", "Git", "Linux", "VS Code"]
-  },
-  
-  currentFocus: ["Building Scalable Apps", "Clean Architecture", "UI/UX Excellence"],
-  
-  lifePhilosophy: "Code with passion, design with purpose 🚀"
-};
+me = AyarSuresh()
+print(me.say_hi())
 ```
 
+---
+
+## 💫 Expertise Level
+
 <div align="center">
 
-### 🎯 Quick Facts
-
-🔭 Currently working on **Next-Gen Mobile Applications**  
-🌱 Mastering **Advanced Flutter Patterns & Python Automation**  
-💬 Ask me about **Flutter, Python, Web Development**  
-⚡ Fun fact: **I debug faster than I drink coffee ☕**
+| Skill | Proficiency | Status |
+|-------|------------|--------|
+| 📱 **Flutter/Dart** | ████████████░░░░ | **80%** 🔥 |
+| 🌐 **Web Development** | ███████░░░░░░░░░ | **70%** ⭐ |
+| 🐍 **Python** | ████████████░░░░ | **80%** 🔥 |
+| 📱 **App Development** | ███████░░░░░░░░░ | **75%** ⭐ |
+| 🎨 **UI/UX Design** | ███████░░░░░░░░░ | **75%** ⭐ |
 
 </div>
 
-<br/>
+---
 
-<!-- Tech Stack Section with Modern Icons -->
-## 🛠️ Technology Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"/>
-</p>
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-### ⚙️ Backend & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/>
-</p>
+### ⚡ Backend & Tools
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 
-### 🎨 Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=3DDC84"/>
-</p>
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-<!-- Skill Progress Bars -->
-<div align="center">
-
-## 💪 Skill Proficiency
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,js,html,css,firebase,docker,git,figma,vscode,androidstudio&perline=6&theme=dark"/>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Flutter & Dart</strong><br/>
-      <img src="https://progress-bar.dev/85/?title=Expertise&width=300&color=02569B"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>Python</strong><br/>
-      <img src="https://progress-bar.dev/80/?title=Expertise&width=300&color=3776AB"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Web Development</strong><br/>
-      <img src="https://progress-bar.dev/75/?title=Expertise&width=300&color=F7DF1E"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>Mobile Apps</strong><br/>
-      <img src="https://progress-bar.dev/85/?title=Expertise&width=300&color=3DDC84"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
 
 ### 📱 WhatsApp Status Saver
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%"/>
+**Revolutionary mobile application for WhatsApp status management**
 
-**Tech Stack:** Flutter • Dart • Firebase
+```
+Features:
+  ✨ Instant Status Saving & Caching
+  📂 Smart Category Organization
+  ☁️  Cloud Backup Integration
+  🔄 Share & Export Functionality
+  🎨 Beautiful UI/UX Design
+```
 
-✨ Revolutionary status management app  
-🎯 10K+ downloads  
-⚡ Lightning-fast performance  
-🔒 Secure cloud backup
+**Tech Stack:** Flutter • Dart • Firebase • Provider
 
-[View Project →](#)
-
-</td>
-<td width="50%">
+---
 
 ### 🏗️ Construction Portal
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%"/>
+**Comprehensive web platform for construction management**
 
-**Tech Stack:** HTML • CSS • JavaScript • Python
+```
+Features:
+  📊 Real-time Project Tracking
+  👷 Resource Allocation System
+  📱 Live Status Updates
+  🤝 Team Collaboration Tools
+  📈 Analytics Dashboard
+```
 
-🎯 Complete project management  
-📊 Real-time analytics  
-👥 Multi-user collaboration  
-📱 Responsive design
+**Tech Stack:** JavaScript • Python • Firebase • REST API
 
-[View Project →](#)
+---
 
-</td>
-</tr>
-</table>
+### 🚀 Tech Innovation Hub
+**Personal portfolio showcasing tech projects & contributions**
 
-</div>
+```
+Features:
+  📝 Dynamic Content Management
+  🎨 Project Showcase Gallery
+  ⚡ Performance Optimized
+  🔍 SEO Friendly
+  📱 Fully Responsive
+```
 
-<br/>
-
-<!-- GitHub Stats Section with Modern Cards -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayar-Suresh&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayar-Suresh&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=c9d1d9&area_color=667eea&area=true&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Modern Web Standards
 
 </div>
 
-<br/>
+---
 
-<!-- Contribution Snake -->
+## 📊 GitHub Statistics
+
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake.svg">
-</picture>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayar-Suresh&theme=radical&hide_border=true)](https://github.com/Ayar-Suresh)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Ayar-Suresh)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayar-Suresh&layout=compact&theme=radical&hide_border=true)](https://github.com/Ayar-Suresh)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/Ayar-Suresh)
 
 </div>
 
-<br/>
+---
 
-<!-- Quote Section -->
-<div align="center">
+## 🌟 Core Values
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<!-- Connect Section -->
-## 💬 Let's Connect!
-
-<div align="center">
-
-<p>I'm always excited to collaborate on innovative projects and share knowledge! 🤝</p>
-
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/ayar-suresh-itpro/">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
-        <br><strong>LinkedIn</strong>
-      </a>
+    <td align="center" width="25%">
+      <h3>🎯 Innovation</h3>
+      <p>Pushing boundaries with<br/>cutting-edge technology</p>
     </td>
-    <td align="center">
-      <a href="https://wa.me/918320097437">
-        <img src="https://img.icons8.com/fluency/96/000000/whatsapp.png" width="60"/>
-        <br><strong>WhatsApp</strong>
-      </a>
+    <td align="center" width="25%">
+      <h3>💡 Problem Solving</h3>
+      <p>Converting complex challenges<br/>into elegant solutions</p>
     </td>
-    <td align="center">
-      <a href="mailto:ahir385350@gmail.com">
-        <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/>
-        <br><strong>Email</strong>
-      </a>
+    <td align="center" width="25%">
+      <h3>🤝 Collaboration</h3>
+      <p>Working seamlessly with<br/>teams across the globe</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>📚 Continuous Learning</h3>
+      <p>Growing and evolving with<br/>the tech landscape</p>
     </td>
   </tr>
 </table>
 
-### 📧 ahir385350@gmail.com | 📱 +91 8320097437
+---
 
-<br/>
+## 🎓 What I'm Currently Doing
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+- 🔭 Working on innovative mobile & web applications
+- 🌱 Exploring advanced Flutter patterns and Firebase optimization
+- 💬 Contributing to open-source projects
+- 📖 Mastering modern DevOps practices and cloud technologies
+- 🎯 Building scalable backend systems with Python
 
-### ⭐ "Code is poetry written in logic" ⭐
+---
 
-<br/>
+## 📈 Recent Activity
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+```
+📊 This Week:
+  ├─ 💻 Written 500+ lines of code
+  ├─ 🐛 Resolved 10+ issues
+  ├─ 📝 Updated 3 projects
+  └─ 🤝 Collaborated on 2 repositories
+```
+
+---
+
+## 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, designers, and innovators. Let's create something amazing together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayar-suresh-itpro/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ahir385350@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/918320097437)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
+
+### 📫 Reach Out to Me
+
+| Contact | Link |
+|---------|------|
+| 📧 **Email** | [ahir385350@gmail.com](mailto:ahir385350@gmail.com) |
+| 📱 **Phone** | [+91 8320097437](tel:+918320097437) |
+| 💬 **WhatsApp** | [Message Me](https://wa.me/918320097437) |
+| 💼 **LinkedIn** | [Connect Here](https://www.linkedin.com/in/ayar-suresh-itpro/) |
+| 🔗 **GitHub** | [View Repos](https://github.com/Ayar-Suresh) |
+
+</div>
+
+---
+
+## 📊 Profile Views & Engagement
+
+<div align="center">
+
+![Profile Views](https://profile-counter.glitch.me/Ayar-Suresh/count.svg)
+
+![](https://img.shields.io/github/followers/Ayar-Suresh?style=social)
+![](https://img.shields.io/github/stars/Ayar-Suresh?style=social)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=false"/>
+
+### ⭐ If you find my work interesting, don't forget to star this repo! ⭐
+
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+---
+
+<p align="center">
+  <i>Building digital experiences, one line of code at a time 🚀</i><br/>
+  <strong>© 2025 Ayar Suresh. All Rights Reserved.</strong>
+</p>
 
 </div>

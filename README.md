@@ -1,243 +1,167 @@
-Gemini said
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=300&section=header&text=AYAR%20SURESH&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Visionary%20Full%20Stack%20Architect%20%7C%20Mobile%20Innovation&descAlignY=55&descAlign=50" width="100%"/>
+  
+  <br/>
+  
+  <a href="https://github.com/Ayar-Suresh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=23272A&center=true&vCenter=true&width=1000&lines=Building+Next-Gen+Streaming+Platforms;Crafting+AI-Powered+Conversational+Interfaces;Architecting+Enterprise+Web+Solutions;Mastering+Cross-Platform+Mobile+Development" alt="Typing SVG" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=AYAR%20SURESH&fontSize=100&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cross-Platform%20Expert%20%7C%20UI/UX%20Enthusiast&descAlignY=52&descAlign=60" width="100%"/>
+  <br/><br/>
 
-🎯 Turning complex problems into elegant, user-centric solutions.
+  <p>
+    <a href="https://github.com/Ayar-Suresh">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ayar-suresh-itpro/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    </a>
+    <a href="mailto:ahir385350@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    </a>
+    <a href="https://ayar-suresh.github.io/construction-co/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+    </a>
+  </p>
 </div>
 
-🌟 About Me
-<table>
-<tr>
-<td width="50%">
+<br/>
 
-I build seamless digital experiences across web and mobile.
-
-I'm a Full Stack Developer based in Ahmedabad, India, currently pursuing my BCA and specializing in building high-performance applications. From architecting media streaming platforms to integrating AI chatbots into modern web interfaces, I focus on delivering quality over hype.
-
-My Philosophy: Functionality drives design, clean code drives scalability.
-
-🎯 What I Do
-📱 Architect scalable cross-platform apps (Flutter/Dart)
-
-🌐 Build interactive, AI-integrated web applications (React)
-
-⚙️ Develop robust backend systems (Node.js)
-
-🎨 Design modern, responsive, and accessible user interfaces
-
-💡 Continuously explore new tech, from cloud architectures to workflow automation
-
-</td>
-<td width="50%">
-
-JavaScript
-const developer = {
-  name: "Ayar Suresh",
-  location: "Ahmedabad 🇮🇳",
-  focus: ["Full Stack Dev", "Mobile Apps"],
-  techStack: [
-    "Flutter", "Dart", 
-    "React", "Node.js"
-  ],
-  currentProject: "OtakuNexa 🎬",
-  passion: "Creating functional, beautiful software without the fluff."
-};
-</td>
-</tr>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>⚡ The Architect Behind the Code</h2>
+      <br/>
+      <p>I don't just write code; <b>I engineer digital ecosystems.</b></p>
+      <p>Based in <b>Ahmedabad, India</b>, I specialize in bridging the gap between complex backend logic and stunning frontend interfaces. My work focuses on high-performance media streaming, AI integration, and enterprise-grade web solutions.</p>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=000&icon_color=00d4ff&hide_title=true" height="150" />
+    </td>
+    <td width="45%" valign="center">
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayar-Suresh&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=FF6B6B&currStreakLabel=00d4ff" alt="GitHub Streak" />
+      </div>
+    </td>
+  </tr>
 </table>
 
-🚀 Technical Skills
-<div align="center">
+<br/>
 
-💎 Core Competencies
-Category	Skills
-📱 Mobile	
-🌐 Frontend	
-⚙️ Backend	
-🛠️ Tools	
-🎨 Design	
+<div align="center">
+  <h2>🛠️ The Arsenal</h2>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,firebase,python,html,css,js,git,github,vscode,linux,docker,figma&perline=15" />
 </div>
 
-💼 Featured Projects
-<div align="center">
+<br/><br/>
 
-🎯 Project Showcase
+<div align="center">
+  <h2>🚀 Featured Innovations</h2>
+  <p><i>Real-world applications driving value and user engagement</i></p>
 </div>
 
-<div align="center">
+<br/>
 
-🎬 OtakuNexa (Web & Mobile App)
-<img alt="Project Badge" src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge"/>
-
-<table>
-<tr>
-<td>
-
-┌─────────────────────────────────┐
-│  🎬 OTAKUNEXA PLATFORM          │
-│                                 │
-│  Anime Streaming & Downloading  │
-│                                 │
-│  ✓ Cross-Platform App           │
-│  ✓ Dedicated Web Version        │
-│  ✓ Custom Landing Page          │
-└─────────────────────────────────┘
-A comprehensive, high-performance platform for anime enthusiasts to stream and download content seamlessly across devices.
-
-</td>
-<td width="50%">
-
-🚀 Key Features:
-
-📱 Unified cross-platform mobile experience
-
-🌐 Fully responsive web companion app
-
-⚡ Optimized media streaming architecture
-
-🎨 Custom-designed modern landing page
-
-🔍 Advanced search and cataloging
-
-🌙 Native dark mode integration
-
-</td>
-</tr>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>🎬 OtakuNexa Ecosystem</h3>
+      <p>
+        <b>Cross-Platform Anime Streaming Architecture</b><br/>
+        A massive undertaking to build a unified streaming experience. Engineered a seamless bridge between a high-performance Flutter mobile app and a responsive React web interface.
+      </p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <ul>
+        <li><b>Unified Backend:</b> Synchronized watch history across Web & Mobile.</li>
+        <li><b>Performance:</b> Optimized video buffering algorithms for low-latency streaming.</li>
+        <li><b>Design:</b> Custom glassmorphic UI with dynamic theming.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <div align="center">
+        <img src="https://cdn.dribbble.com/users/3593/screenshots/15694380/media/b6e222d4c062c3c9c91629532822a16d.png?compress=1&resize=400x300" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" alt="OtakuNexa Preview (Conceptual)"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
-🛠️ Tech Stack:
+<br/>
 
-Mobile: Flutter • Dart
-Web: React • Modern CSS
-Backend: Node.js • Firebase
-🤖 Interactive AI Portfolio
-<img alt="Project Badge" src="https://img.shields.io/badge/Status-Live-blue?style=for-the-badge"/>
-
-<table>
-<tr>
-<td width="50%">
-
-🎯 Core Capabilities:
-
-💬 Custom integrated AI chatbot assistant
-
-🎨 Modern, immersive UI design
-
-⚡ Smooth scrolling and micro-animations
-
-📱 100% responsive across all viewports
-
-🚀 Hosted seamlessly on GitHub Pages
-
-🔍 Optimized for fast load times
-
-</td>
-<td>
-
-┌─────────────────────────────────┐
-│  🤖 AI-POWERED PORTFOLIO        │
-│                                 │
-│  Next-Gen Personal Site         │
-│                                 │
-│  ✓ Interactive Chatbot          │
-│  ✓ Dynamic Content              │
-│  ✓ Highly Responsive            │
-└─────────────────────────────────┘
-A modern personal portfolio website featuring a custom AI chatbot that allows visitors to interactively learn about my work and skills.
-
-</td>
-</tr>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="40%" align="center">
+       <div align="center">
+        <img src="https://cdn.dribbble.com/users/1299330/screenshots/14732675/media/1325785a9df617753940c313a0c5c4e9.jpg?compress=1&resize=400x300" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" alt="AI Chatbot Preview (Conceptual)"/>
+      </div>
+    </td>
+    <td width="60%">
+      <h3>🤖 Intelligent AI Portfolio</h3>
+      <p>
+        <b>Conversational Personal Brand Interface</b><br/>
+        Why read a resume when you can talk to it? Integrated a custom-trained LLM chatbot into a modern portfolio site, allowing recruiters and visitors to interactively query my skills and background.
+      </p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>Innovation:</b> Real-time natural language processing integration.</li>
+        <li><b>UI/UX:</b> Floating action button (FAB) chat interface.</li>
+        <li><b>Tech:</b> Serverless deployment for instant scalability.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-🛠️ Tech Stack:
+<br/>
 
-Frontend: HTML5 • CSS3 • JavaScript
-Integration: AI APIs • Webhooks
-Hosting: GitHub Pages
-🏗️ Modern Construction Co. Website
-<img alt="Project Badge" src="https://img.shields.io/badge/Status-Deployed-red?style=for-the-badge"/>
-<a href="https://ayar-suresh.github.io/construction-co/"><img alt="Live Demo" src="https://img.shields.io/badge/View_Live-Demo-brightgreen?style=for-the-badge"/></a>
-
-<table>
-<tr>
-<td>
-
-┌─────────────────────────────────┐
-│  🏗️ CORPORATE WEB PRESENCE     │
-│                                 │
-│  Construction Industry UI       │
-│                                 │
-│  ✓ Sleek UI/UX Design           │
-│  ✓ Service Showcase             │
-│  ✓ Lead Generation Focus        │
-└─────────────────────────────────┘
-A professional, polished landing website designed specifically for a modern construction firm.
-
-</td>
-<td width="50%">
-
-✨ Key Features:
-
-🖼️ High-quality gallery and project showcases
-
-📱 Mobile-first responsive architecture
-
-🚀 Fast painting and layout rendering
-
-✉️ Clean contact and inquiry forms
-
-🎨 Trust-building corporate color theory
-
-</td>
-</tr>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>🏗️ Enterprise Construction Portal</h3>
+      <p>
+        <b>Corporate Digital Transformation</b><br/>
+        A complete digital overhaul for a construction firm. Built a high-trust, responsive web presence designed to showcase large-scale infrastructure projects and capture high-value leads.
+      </p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white"/>
+      </p>
+      <ul>
+        <li><b>Live Deployment:</b> <a href="https://ayar-suresh.github.io/construction-co/">View Live Site</a></li>
+        <li><b>Design System:</b> Corporate color theory and typography for brand trust.</li>
+        <li><b>Architecture:</b> Mobile-first responsive grid system.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+       <div align="center">
+        <img src="https://cdn.dribbble.com/users/1615584/screenshots/15949503/media/893c836a04b57497a72611a1b18d89ba.jpg?compress=1&resize=400x300" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" alt="Construction Site Preview (Conceptual)"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
-🛠️ Tech Stack:
-
-Frontend: Modern Web Standards (HTML/CSS/JS)
-Focus: UI/UX • Performance • Accessibility
-</div>
-
-📊 GitHub Analytics
-<div align="center">
-
-<a href="https://github.com/Ayar-Suresh">
-<img alt="Ayar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=E0E0E0&count_private=true&include_all_commits=true" height="200"/>
-</a>
-
-<a href="https://github.com/Ayar-Suresh">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayar-Suresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E0E0E0" height="200"/>
-</a>
-
-</div>
-
-🎯 Current Focus
-<div align="center">
-
-📱	🤖	🌐	📚
-Expanding OtakuNexa ecosystem	Experimenting with Groq AI integrations	Refining Frontend architectures	Pursuing BCA Degree
-</div>
-
-💬 Let's Connect!
-<div align="center">
-
-🌐 Find Me Online
-📫 Direct Contact
-📧 Email    → ahir385350@gmail.com
-📱 WhatsApp → +91 8320097437
-💼 LinkedIn → /in/ayar-suresh-itpro
-🔗 GitHub   → /Ayar-Suresh
-Whether it's discussing the latest in Flutter, brainstorming an AI integration, or just talking about good anime, my inbox is always open.
-
-</div>
+<br/><br/>
 
 <div align="center">
+  <h2>📊 The Data</h2>
+  <br/>
+  <a href="https://github.com/Ayar-Suresh">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=75&desc=Let's%20build%20something%20real%20together%20🚀&descAlign=60&descAlignY=90"/>
+<br/><br/>
 
-<p>
-<em>"Great software is built on solid fundamentals, not just shiny features."</em>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=150&section=footer&fontSize=90" width="100%"/>
 </div>

@@ -1,167 +1,235 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=300&section=header&text=AYAR%20SURESH&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Visionary%20Full%20Stack%20Architect%20%7C%20Mobile%20Innovation&descAlignY=55&descAlign=50" width="100%"/>
-  
-  <br/>
-  
-  <a href="https://github.com/Ayar-Suresh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=23272A&center=true&vCenter=true&width=1000&lines=Building+Next-Gen+Streaming+Platforms;Crafting+AI-Powered+Conversational+Interfaces;Architecting+Enterprise+Web+Solutions;Mastering+Cross-Platform+Mobile+Development" alt="Typing SVG" />
-  </a>
 
-  <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=280&section=header&text=AYAR%20SURESH&fontSize=75&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=Flutter%20Developer%20%E2%80%94%20Building%20OtakuNexa&descSize=17&descAlignY=60&descColor=7ecfff" width="100%"/>
 
-  <p>
-    <a href="https://github.com/Ayar-Suresh">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ayar-suresh-itpro/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-    </a>
-    <a href="mailto:ahir385350@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-    </a>
-    <a href="https://ayar-suresh.github.io/construction-co/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-    </a>
-  </p>
 </div>
-
-<br/>
-
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2>⚡ The Architect Behind the Code</h2>
-      <br/>
-      <p>I don't just write code; <b>I engineer digital ecosystems.</b></p>
-      <p>Based in <b>Ahmedabad, India</b>, I specialize in bridging the gap between complex backend logic and stunning frontend interfaces. My work focuses on high-performance media streaming, AI integration, and enterprise-grade web solutions.</p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=000&icon_color=00d4ff&hide_title=true" height="150" />
-    </td>
-    <td width="45%" valign="center">
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayar-Suresh&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=FF6B6B&currStreakLabel=00d4ff" alt="GitHub Streak" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <div align="center">
-  <h2>🛠️ The Arsenal</h2>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,firebase,python,html,css,js,git,github,vscode,linux,docker,figma&perline=15" />
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=%3E+Flutter+%26+Web+Developer;%3E+Building+OtakuNexa+%E2%80%94+Cross-Platform+Anime+Streaming;%3E+Obsessed+with+UI+Design+%26+Performance;%3E+Based+in+Ahmedabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://github.com/Ayar-Suresh)
+
+<br/>
+
+<a href="https://github.com/Ayar-Suresh"><img src="https://img.shields.io/badge/%E2%9D%B0_GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/ayar-suresh-itpro/"><img src="https://img.shields.io/badge/%E2%9D%B0_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/></a>
+<a href="mailto:ahir385350@gmail.com"><img src="https://img.shields.io/badge/%E2%9D%B0_Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/></a>
+<a href="https://ayar-suresh.github.io/construction-co/"><img src="https://img.shields.io/badge/%E2%9D%B0_Portfolio-0d1117?style=for-the-badge&logo=html5&logoColor=FF5722&labelColor=0d1117"/></a>
 
 <br/><br/>
 
-<div align="center">
-  <h2>🚀 Featured Innovations</h2>
-  <p><i>Real-world applications driving value and user engagement</i></p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ayar-Suresh&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Ayar-Suresh?style=flat-square&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
+
 </div>
 
 <br/>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="60%">
-      <h3>🎬 OtakuNexa Ecosystem</h3>
-      <p>
-        <b>Cross-Platform Anime Streaming Architecture</b><br/>
-        A massive undertaking to build a unified streaming experience. Engineered a seamless bridge between a high-performance Flutter mobile app and a responsive React web interface.
-      </p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </p>
-      <ul>
-        <li><b>Unified Backend:</b> Synchronized watch history across Web & Mobile.</li>
-        <li><b>Performance:</b> Optimized video buffering algorithms for low-latency streaming.</li>
-        <li><b>Design:</b> Custom glassmorphic UI with dynamic theming.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <div align="center">
-        <img src="https://cdn.dribbble.com/users/3593/screenshots/15694380/media/b6e222d4c062c3c9c91629532822a16d.png?compress=1&resize=400x300" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" alt="OtakuNexa Preview (Conceptual)"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="40%" align="center">
-       <div align="center">
-        <img src="https://cdn.dribbble.com/users/1299330/screenshots/14732675/media/1325785a9df617753940c313a0c5c4e9.jpg?compress=1&resize=400x300" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" alt="AI Chatbot Preview (Conceptual)"/>
-      </div>
-    </td>
-    <td width="60%">
-      <h3>🤖 Intelligent AI Portfolio</h3>
-      <p>
-        <b>Conversational Personal Brand Interface</b><br/>
-        Why read a resume when you can talk to it? Integrated a custom-trained LLM chatbot into a modern portfolio site, allowing recruiters and visitors to interactively query my skills and background.
-      </p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-      </p>
-      <ul>
-        <li><b>Innovation:</b> Real-time natural language processing integration.</li>
-        <li><b>UI/UX:</b> Floating action button (FAB) chat interface.</li>
-        <li><b>Tech:</b> Serverless deployment for instant scalability.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 〔 About 〕
+
+```dart
+class AyarSuresh extends Developer {
+  final String location   = "Ahmedabad, India 🇮🇳";
+  final String role       = "Flutter & Web Developer";
+  final String mainBuild  = "OtakuNexa — Anime Streaming Platform";
+  final List   focus      = ["Cross-Platform Apps", "UI Design", "Streaming Tech"];
+  final bool   openToWork = true;
+}
+```
 
 <br/>
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="60%">
-      <h3>🏗️ Enterprise Construction Portal</h3>
-      <p>
-        <b>Corporate Digital Transformation</b><br/>
-        A complete digital overhaul for a construction firm. Built a high-trust, responsive web presence designed to showcase large-scale infrastructure projects and capture high-value leads.
-      </p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white"/>
-      </p>
-      <ul>
-        <li><b>Live Deployment:</b> <a href="https://ayar-suresh.github.io/construction-co/">View Live Site</a></li>
-        <li><b>Design System:</b> Corporate color theory and typography for brand trust.</li>
-        <li><b>Architecture:</b> Mobile-first responsive grid system.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-       <div align="center">
-        <img src="https://cdn.dribbble.com/users/1615584/screenshots/15949503/media/893c836a04b57497a72611a1b18d89ba.jpg?compress=1&resize=400x300" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.2);" alt="Construction Site Preview (Conceptual)"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/><br/>
+<br/>
+
+## 〔 Tech Stack 〕
 
 <div align="center">
-  <h2>📊 The Data</h2>
-  <br/>
-  <a href="https://github.com/Ayar-Suresh">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-  </a>
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-<br/><br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 〔 Featured Projects 〕
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=150&section=footer&fontSize=90" width="100%"/>
+
+<table border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🎬_OtakuNexa-00d4ff?style=for-the-badge&logoColor=white&labelColor=0d1117&color=00d4ff"/>
+</div>
+
+**Anime Streaming Platform — Flutter + Web**
+
+Cross-platform streaming ecosystem with a Flutter mobile app and React web interface sharing a single Node.js + Firebase backend.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+```
+✦ Synced watch history across Mobile & Web
+✦ Optimized buffering for low-latency playback
+✦ Glassmorphic UI with dynamic theming
+```
+
+[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/Ayar-Suresh)
+
+<br/>
+</td>
+
+<td width="50%" valign="top">
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🤖_AI_Portfolio-7c3aed?style=for-the-badge&logoColor=white&labelColor=0d1117&color=7c3aed"/>
+</div>
+
+**Conversational Developer Portfolio**
+
+Interactive portfolio where visitors chat with an LLM instead of reading a resume. Built with OpenAI API, deployed serverlessly on Vercel.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+```
+✦ LLM trained on personal background & skills
+✦ Floating chat interface (FAB design)
+✦ Serverless — scales automatically
+```
+
+[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=7c3aed)](https://github.com/Ayar-Suresh)
+
+<br/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/🏗️_Construction_Co._Website-ff6b35?style=for-the-badge&labelColor=0d1117&color=ff6b35"/>
+</div>
+
+**Corporate Web Presence — HTML / CSS / GitHub Pages**
+
+Responsive corporate site for a construction firm. Focused on trust, clarity, and lead generation with a mobile-first layout. Live in production.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+
+```
+✦ Mobile-first responsive grid system
+✦ Corporate design system for brand credibility
+✦ Deployed & live on GitHub Pages
+```
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://ayar-suresh.github.io/construction-co/)
+[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=ff6b35)](https://github.com/Ayar-Suresh/construction-co)
+
+<br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 〔 GitHub Stats 〕
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayar-Suresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ayar-Suresh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7ecfff&dates=888" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 〔 Contribution Activity 〕
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayar-Suresh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="100%"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+*"Shipping real products, one commit at a time."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=120&section=footer" width="100%"/>
+
 </div>

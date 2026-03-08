@@ -182,17 +182,18 @@ Responsive corporate site for a construction firm. Focused on trust, clarity, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayar-Suresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true" height="175"/>
+<img src="https://github-stats.as93.net/api?username=Ayar-Suresh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayar-Suresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" height="175"/>
+<img src="https://github-stats.as93.net/api/top-langs/?username=Ayar-Suresh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" height="175"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ayar-Suresh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7ecfff&dates=888" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ayar-Suresh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=7ecfff&dates=888888" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<!-- Trophies via ryo-ma maintained fork -->
+<img src="https://github-profile-trophy.vercel.app/?username=Ayar-Suresh&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
 
 </div>
 
@@ -206,14 +207,44 @@ Responsive corporate site for a construction firm. Focused on trust, clarity, an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayar-Suresh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=00d4ff&hide_border=true" width="100%"/>
+<!-- Activity Graph — maintained fork by ashutosh00710 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayar-Suresh&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=00d4ff20&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 <br/>
 
+<!-- 
+   Snake animation — requires one-time GitHub Actions setup.
+  Create .github/workflows/snake.yml in this repo with the content below.
+  Once the action runs, the SVGs will be available at the URLs used here.
+
+  ──── snake.yml content ────────────────────────────────────────────────
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: Ayar-Suresh
+            outputs: |
+              dist/snake.svg
+              dist/snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ───────────────────────────────────────────────────────────────────────
+-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ayar-Suresh/Ayar-Suresh/output/snake-dark.svg" width="100%">
 </picture>
 
 </div>

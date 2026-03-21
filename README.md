@@ -108,7 +108,8 @@ Cross-platform streaming ecosystem with a Flutter mobile app and React web inter
 ✦ Glassmorphic UI with dynamic theming
 ```
 
-[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=00d4ff)](https://github.com/Ayar-Suresh)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://otakunexa.online/)
+[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=ff6b35)](https://github.com/Ayar-Suresh/OtaKuNexa)
 
 <br/>
 </td>
@@ -134,7 +135,8 @@ Interactive portfolio where visitors chat with an LLM instead of reading a resum
 ✦ Serverless — scales automatically
 ```
 
-[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=7c3aed)](https://github.com/Ayar-Suresh)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://github.com/Ayar-Suresh/devfolio-ai)
+[![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=ff6b35)](https://github.com/Ayar-Suresh/devfolio-ai)
 
 <br/>
 </td>

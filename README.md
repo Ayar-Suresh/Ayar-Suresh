@@ -135,7 +135,7 @@ Interactive portfolio where visitors chat with an LLM instead of reading a resum
 ✦ Serverless — scales automatically
 ```
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://github.com/Ayar-Suresh/devfolio-ai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://ayar-suresh.github.io/devfolio-ai/)
 [![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=ff6b35)](https://github.com/Ayar-Suresh/devfolio-ai)
 
 <br/>

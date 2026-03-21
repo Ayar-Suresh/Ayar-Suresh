@@ -164,7 +164,7 @@ Responsive corporate site for a construction firm. Focused on trust, clarity, an
 ✦ Deployed & live on GitHub Pages
 ```
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://ayar-suresh.github.io/construction-co/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ff6b35?style=flat-square&logo=html5&logoColor=white)](https://ayar-suresh.github.io/construction-company-website/)
 [![View Source](https://img.shields.io/badge/View_Source-0d1117?style=flat-square&logo=github&logoColor=ff6b35)](https://github.com/Ayar-Suresh/construction-co)
 
 <br/>
